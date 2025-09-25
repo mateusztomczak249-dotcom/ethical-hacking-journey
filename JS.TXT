@@ -1,0 +1,66 @@
+RAPORT: CO JUŻ POTRAFIĘ (Stan na 2025-09-25)
+Hej, tu Mateusz.
+Piszę to, żeby pokazać co już ogarnąłem w cyberbezpieczeństwie. Zero ściemy - tylko 100% prawdy.
+
+🔐 PRAKTYCZNE UMIEJĘTNOŚCI:
+1. Etyczne Hakowanie - testuję różne systemy:
+
+Strony WWW - szukam błędów w aplikacjach webowych (XSS, SQL Injection)
+
+Maszyny wirtualne - robię Hack The Box, OverTheWire
+
+Sieci - uczę się jak testować bezpieczeństwo networku
+
+Aplikacje - analizuję różne systemy pod kątem podatności
+
+2. Narzędzia których używam na co dzień:
+
+Kali Linux - mój główny system do testów
+
+Burp Suite - do testowania aplikacji webowych
+
+Linux terminal - swobodnie poruszam się po systemie, znam podstawowe komendy
+
+Git/GitHub - trzymam tam swoje projekty
+
+Python - dopiero się uczę podstaw, na razie czytam gotowe skrypty
+
+3. Obszary które aktualnie zgłębiam:
+
+Web Security - testowanie stron i aplikacji internetowych
+
+Network Security - jak zabezpieczone są sieci i serwery
+
+Penetration Testing - pełny proces testów penetracyjnych
+
+Manual Testing - na razie skupiam się na testach ręcznych
+
+4. Wiem jak myśleć jak haker:
+
+Rozumiem proces pentestingu - od rozpoznania do exploitu
+
+Szukam niestandardowych rozwiązań - nie idę utartymi ścieżkami
+
+Uczę się ciągle nowych technik - nie ograniczam się do jednej dziedziny
+
+🎯 CO ROBIĘ TERAZ:
+Uczę się każdego dnia - minimum 2-3 godziny dziennie
+
+Ćwiczę na różnych platformach (HTB, TryHackMe, OverTheWire)
+
+Eksperymentuję z różnymi typami ataków
+
+Buduję portfolio na GitHubie żeby pokazać swoje skills
+
+Planuję naukę Pythona - to mój następny krok
+
+💼 CZYM CHCĘ ZAJĄĆ SIĘ ZAWODOWO:
+Szukam pracy gdzie:
+
+Mogę uczyć się od doświadczonych ludzi
+
+Robić prawdziwe testy penetracyjne różnych systemów
+
+Rozwijać się wszechstronnie jako pentester
+
+Nie jestem expertem, ale codziennie uczę się nowych rzeczy. Wolę być uczciwy co do swoich umiejętności niż coś udawać.
